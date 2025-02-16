@@ -17,8 +17,8 @@ x Practice Problem 2
 
 #### Week 5
 
-_ Practice Problem 1  
-_ Practice Problem 2
+x Practice Problem 1  
+x Practice Problem 2
 
 #### Week 6
 
